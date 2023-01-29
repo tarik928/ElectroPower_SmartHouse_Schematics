@@ -1,2 +1,2 @@
 
-![3D][../3dDesign.png]
+![3D](../3dDesign.png)
