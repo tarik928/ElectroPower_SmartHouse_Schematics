@@ -1,2 +1,2 @@
 
-[3D design][img/3dDesign.png]
+![3D design][img/3dDesign.png]
